@@ -10,6 +10,9 @@ using System.Windows.Forms;
 using System.Media;
 
 namespace spaceRace
+    /// Liam Fischer
+    /// May 21st 2024
+    /// A simple game involving randoms and lists
 {
     public partial class Form1 : Form
     {
